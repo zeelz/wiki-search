@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/alphmnyb/repositories/wiki-search/
+    - /bin/cp -a * $DEPLOYPATH
