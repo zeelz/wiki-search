@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export CPANELPATH2=/home/alphmnyb/repositories/wiki-search
-    - /bin/cp -a * $CPANELPATH2
+    - export CPANELPATH3=/home/alphmnyb/repositories/wiki-search
+    - /bin/cp -a * $CPANELPATH3
